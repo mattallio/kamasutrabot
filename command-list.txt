@@ -1,0 +1,7 @@
+start - Initiate the Bot
+home - Back to the Main Menu
+single - Random Single Position
+couple - Random Couple Position
+trio - Random Trio Position
+pillow - Instructions for the Pillow Stroker
+help - Get the Command List
